@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="664298d2-0554-45bc-a60f-8a06d1ccf8a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/nextjs-demo/app/(root)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-demo/app/dashboard/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-demo/app/(root)/error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-demo/app/(root)/loader.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-demo/app/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-demo/app/(root)/about/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-demo/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-demo/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-demo/app/(root)/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-demo/app/(root)/about/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\NextJs_Demo\nextjs-demo\app\(dashboard)" />
       <recent name="D:\NextJs_Demo\nextjs-demo\app\(root)" />
     </key>
   </component>
@@ -70,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772482614341</updated>
       <workItem from="1772482615308" duration="1635000" />
-      <workItem from="1772529258372" duration="6248000" />
+      <workItem from="1772529258372" duration="7863000" />
     </task>
     <servers />
   </component>

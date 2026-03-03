@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="664298d2-0554-45bc-a60f-8a06d1ccf8a6" name="Changes" comment="" />
+    <list default="true" id="664298d2-0554-45bc-a60f-8a06d1ccf8a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/nextjs-demo/app/(root)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-demo/app/dashboard/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-demo/app/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-demo/app/(root)/about/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-demo/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-demo/app/(root)/page.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +34,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "local/dev",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
@@ -44,6 +50,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\NextJs_Demo\nextjs-demo\app\(root)" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772482614341</updated>
       <workItem from="1772482615308" duration="1635000" />
-      <workItem from="1772529258372" duration="2579000" />
+      <workItem from="1772529258372" duration="6248000" />
     </task>
     <servers />
   </component>
